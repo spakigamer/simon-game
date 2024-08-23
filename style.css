@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.one,.two,.three,.four{
+    border:10px solid black;
+    border-radius: 10%;
+    height: 200px;
+    width:200px;
+    margin: 2rem;
+}
+.one{
+    background-color:red;
+}
+.two{
+    background-color: blue;
+}
+.three{
+    background-color: green;
+}
+.four{
+    background-color:yellow;
+}
+
+.flash{
+    background-color: white ;
+}
